@@ -1,0 +1,28 @@
+name: Test Mingus 2
+favicon: null
+layout_spectrum: 0.36264478927478194
+typography_spectrum: 0.5387229628395289
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.06897583301179111
+  lightness: 0.6723805188667029
+  saturation: 0.004051668103784323
+  rhythmicContrast: 0.090715192258358
+purpose: []
