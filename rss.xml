@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test Mingus 2]]></title>
+        <description><![CDATA[Test Mingus 2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 May 2016 01:04:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gallery]]></title>
+            <description><![CDATA[<article><h1>Gallery</h1><p>Based in Sydney, band leader and arranger Steve Fitzmaurice has drawn on the best jazz players from all over the country to pay tribute to Mingus' fantastic compositions as only a firery large ensemble can.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/370adfdbe78d237941b1ed884ade936e9e0d27f8.jpg"></article>]]></description>
+            <link>http://stevefitzmaurice.com.au/test/mingus-amongst-us/photos/gallery</link>
+            <guid isPermaLink="false">60302bef-b2e1-474d-b616-d9419139d6dd</guid>
+            <pubDate>Wed, 04 May 2016 01:04:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
